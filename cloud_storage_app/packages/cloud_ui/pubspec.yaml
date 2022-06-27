@@ -1,0 +1,16 @@
+name: cloud_ui
+environment:
+  sdk: ">=2.16.0-80.1.beta <3.0.0"
+
+
+dependencies: 
+  flutter_lints: ^1.0.4
+  pedantic: ^1.11.1
+
+  flutter:
+    sdk: flutter
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter    
